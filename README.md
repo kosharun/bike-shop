@@ -1,5 +1,6 @@
 # bike-shop
 This is a desktop application made by me called Bike Shop.
+For making this app Qt Creator and C++ was used.
 
 Here are the steps that I needed to fulfill: 
 
